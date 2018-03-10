@@ -4,19 +4,23 @@ Small programming task to find and highlight the variability in the field by ide
 
 ## Getting Started
 
-To quickly get started, download [detect_abnormal.py](https://github.com/JimmeeX/Computer-Vision-Exercise/blob/master/detect_abnormal.py)
+1. Download [detect_abnormal.py](https://github.com/JimmeeX/Computer-Vision-Exercise/blob/master/detect_abnormal.py)
 
-In the same directory as the code, make a new directory called "Input", and a new directory called "Output". 
+2. In the same directory as the code, make a new directory called "Input", and a new directory called "Output"
 
-Load the .tif images for analysis in the "Input" directory
+```
+mkdir Input Output
+```
 
-Run the code:
+3. Load the .tif images for analysis in the "Input" directory (see [Data](https://github.com/JimmeeX/Computer-Vision-Exercise/tree/master/Data) for reference)
+
+4. Run the code:
 
 ```
 python detect_abnormal.py Input/ Output/
 ```
 
-Results will then be stored in the "Output" folder.
+5. Find results stored in the "Output" folder. (see [Results](https://github.com/JimmeeX/Computer-Vision-Exercise/tree/master/Results) for reference)
 
 
 
