@@ -4,7 +4,8 @@ Small programming task to find and highlight the variability in the field by ide
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To quickly get started, download [detect_abnormal.py]
+Read the jupyter notebook file - [detect_abnormal.ipynb](https://nbviewer.jupyter.org/github/JimmeeX/Computer-Vision-Exercise/blob/master/detect_abnormal.ipynb). 
 
 ### Prerequisites
 
